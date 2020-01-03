@@ -3,4 +3,4 @@ Remote Repo
 
 This is a remote update
 
-Power of GIT
+Power of GIT - update from GitHub
